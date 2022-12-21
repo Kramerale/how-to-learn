@@ -42,6 +42,7 @@
   font-size: 102px;
   font-weight: 600;
   margin: 0 0 0 64px;
+  z-index: 2;
 }
 
 .header__subtitle {
@@ -53,6 +54,7 @@
   margin: 0;
   bottom: 30px;
   left: 64px;
+  z-index: 2;
 }
 
 .header__link {
