@@ -1,6 +1,6 @@
 <h1><b>Проект "Научиться учиться"</b></h1>
 
-<a href="https://kramerale.github.io/how-to-learn/">Ссылка на проект</a>
+<a href="https://kramerale.github.io/how-to-learn/" target="_blank">Ссылка на проект</a>
 
 <h2><i>Про что этот проект?</i></h2>
 
